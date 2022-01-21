@@ -10,3 +10,5 @@ dist/
 node_modules/
 loc/
 project-start.txt
+app/scss/
+app/html/
