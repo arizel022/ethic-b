@@ -12,3 +12,5 @@ loc/
 project-start.txt
 app/scss/
 app/html/
+app/js/main.js
+app/images/icon/
